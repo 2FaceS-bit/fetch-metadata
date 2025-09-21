@@ -35,7 +35,7 @@
     "@types/yargs": "^17.0.33",
     "@typescript-eslint/eslint-plugin": "^8.38.0",
     "@typescript-eslint/parser": "^8.32.1",
-    "@vercel/ncc": "^0.38.3",
+    "@vercel/ncc": "^0.38.4",
     "dotenv": "^17.2.1",
     "eslint": "^9.32.0",
     "eslint-plugin-import": "^2.32.0",
